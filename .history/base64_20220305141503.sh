@@ -3,7 +3,7 @@
 RED='\033[0;31'
 
 
-echo "What do you want to encode?"
+echo "I ${RED}love Linux"
 read varname
 
 echo -n $varname | base64
